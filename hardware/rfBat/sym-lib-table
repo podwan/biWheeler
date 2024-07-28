@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bat_rf")(type "KiCad")(uri "${KIPRJMOD}/bat_rf.kicad_sym")(options "")(descr ""))
+)

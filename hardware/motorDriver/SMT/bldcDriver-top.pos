@@ -1,0 +1,21 @@
+### Footprint positions - created on 2024-06-24T12:12:31+0800 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                         Package                                             PosX       PosY       Rot  Side
+                                                                                                       34.9600   -33.2400    0.0000  top
+                                                                                                      119.6600   -33.2400    0.0000  top
+                                                                                                      119.6600   -69.6400    0.0000  top
+                                                                                                       34.9600   -69.6400    0.0000  top
+CN1       MR30PW-F                                    CONN-SMD_3P-P1.00_BX-SH1.0-3PWT                  35.5850   -58.1000  -90.0000  top
+CN2       MR30PW-F                                    CONN-SMD_3P-P1.00_BX-SH1.0-3PWT                 118.8715   -60.7035   90.0000  top
+D12       LED                                         LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   101.8000   -45.1000    0.0000  top
+J1        Conn_01x02                                  AMASS_XT30U-M_1x02_P5.0mm_Vertical               60.0000   -47.9000  180.0000  top
+J2        Conn_01x06                                  CONN-SMD_6P-P1.00_MEGASTAR_ZX-SH1.0-6PWT         91.1000   -68.6000    0.0000  top
+P1        FPC_0.5MM_4P_Vertical_mounting_type_H2.0mm  FPC-SMD_4P-L7.5-W2.0-P0.50                       93.2370   -41.0990   90.0000  top
+RV1       R_Potentiometer                             RES-ADJ-TH_3362P                                101.0000   -35.7300  180.0000  top
+SW1       SW_Push                                     SW-SMD_L4.0-W2.9-LS5.0                           90.5000   -32.5000    0.0000  top
+SW2       SW_Push                                     SW-SMD_L4.0-W2.9-LS5.0                           66.8000   -32.4000  180.0000  top
+U4        HC-FPC-0.5-6P-CSH20                         FPC-SMD_6P-P0.50_HC-FPC-0.5-6P-CSH20            118.2000   -43.4000   90.0000  top
+U10       HC-FPC-0.5-6P-CSH20                         FPC-SMD_6P-P0.50_HC-FPC-0.5-6P-CSH20             36.5170   -42.3500  -90.0000  top
+## End

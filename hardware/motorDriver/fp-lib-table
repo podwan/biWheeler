@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "balancerDriver")(type "KiCad")(uri "${KIPRJMOD}/balancerDriver.pretty/balancerDriver.pretty/balancerDriver.pretty")(options "")(descr ""))
+)
